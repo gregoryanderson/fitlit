@@ -28,3 +28,6 @@ Run tests by running npm tests.
 - Display information on the page while maintaining ability to test class properties and methods
 - Create a data dashboard that is easy to use and displays information in a clear way
 
+![screencapture-file-Users-gregoryanderson-turing-mod2-fitlit-fitlit-src-index-html-2019-07-10-22_01_38](https://user-images.githubusercontent.com/30326085/61021707-dc9ce080-a35f-11e9-8000-00c675f4f649.png)
+
+This is how we interpreted the project. Take a look!
