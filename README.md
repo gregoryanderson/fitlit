@@ -31,3 +31,7 @@ Run tests by running npm tests.
 ![screencapture-file-Users-gregoryanderson-turing-mod2-fitlit-fitlit-src-index-html-2019-07-10-22_01_38](https://user-images.githubusercontent.com/30326085/61021707-dc9ce080-a35f-11e9-8000-00c675f4f649.png)
 
 This is how we interpreted the project. Take a look!
+
+## Contributors 
+
+Ayla Dharamsey & Greg Anderson
